@@ -1,0 +1,1 @@
+"descMin" objectName objDesc.convexity objDesc.eccentricity objDesc.compactness objDesc.circleness objDesc.squareness objTopDesc.convexity objTopDesc.eccentricity objTopDesc.compactness objTopDesc.circleness objTopDesc.squareness 

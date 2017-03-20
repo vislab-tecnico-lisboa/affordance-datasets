@@ -1,0 +1,1 @@
+toolName targetName actionId initialObjPos[0] initialObjPos[1] initialObjImgPos.x initialObjImgPos.y finalObjectPos[0] finalObjectPos[1] finalObjImgPos.x finalObjImgPos.y 
