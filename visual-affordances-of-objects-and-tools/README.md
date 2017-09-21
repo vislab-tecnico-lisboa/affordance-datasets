@@ -8,6 +8,4 @@ In total, there are 11 objects, 4 actions, 3 tools and at least 10 repetitions o
 
 If you use this dataset in your work, please cite the following publication(s):
 
-* Towards learning deep features for multi-modal inference with robotic data. A. Dehban, G. Saponaro, S. Zhang, L. Jamone, A. R. Kampff, J. and Santos-Victor. (2017). International Journal of Robotics Research.
-
 * A Moderately Large Size Dataset to Learn Visual Affordances of Objects and Tools Using iCub Humanoid Robot. A. Dehban, L. Jamone, A. R. Kampff, J. Santos-Victor. (2016). 1st Workshop on Action and Anticipation for Visual Learning, European Conference on Computer Vision (ECCV).
