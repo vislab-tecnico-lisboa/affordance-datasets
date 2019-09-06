@@ -6,7 +6,7 @@ This dataset contains results of trials in which the robot executes different ac
 
 ## Dataset Description
 
-In the current version of this data, we consider 4 motor actions A (tapFromRight, tapFromLeft, draw, push), 2 objects O (lego piece, pear), and 3 hand postures H (straight fingers, arched fingers, bent fingers). We extract visual features from both O and H. Below is the distribution of the motion effects onto target objects caused by the robot influence when it touches object with its hand manipulator:
+In the current version of this data, we consider 4 motor actions A (tapFromRight, tapFromLeft, draw, push), 2 objects O (lego piece, pear), and 3 hand postures H (straight fingers, arched fingers, bent fingers). We extract visual features from both O and H. Below is the distribution of the motion effects onto target objects caused by the robot influence when it touches objects with its hand manipulator:
 
 <img src="misc/all_hand_effects_2obj.png" alt="Distribution of effects." style="width: 800px;"/>
 
