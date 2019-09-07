@@ -23,7 +23,7 @@ In addition, we also provide these files:
 - **cont_desc_noheader**, H and O data in purely numerical format
 - **cont_eff_noheader**, similar to **all_effs** but with fields in numerical format
 - **hands_2017-03-27**, H seen from different viewpoints, shape descriptors. Also includes the joints configuration of the robot arm and head during the CAD hand imagination
-- **hands_2017-03-27**, O seen from different viewpoints, shape descriptors
+- **objects_2017-03-27**, O seen from different viewpoints, shape descriptors
 - **tool\***, baseline tool use dataset taken from the paper A Moderately Large Size Dataset to Learn Visual Affordances of Objects and Tools Using iCub Humanoid Robot
 
 ## Citation
